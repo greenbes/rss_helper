@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "rss-helper"
+version = "0.1.0"
+description = "A wrapper to simplify common RSS behavirs"
+authors = ["greenbes <steve@sixgables.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lxml = "^5.1.0"
+nbdev = "^2.3.13"
+quarto = "^0.1.0"
+jupyterlab-quarto = "^0.3.2"
+wheel = "^0.42.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

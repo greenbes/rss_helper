@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "RSS Helper"
+  site-url: "https://greenbes.github.io/rss-helper"
+  description: "RSS Helper"
+  repo-branch: main
+  repo-url: "https://github.com/greenbes/rss-helper"
